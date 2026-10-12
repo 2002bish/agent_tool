@@ -44,8 +44,8 @@ agent_tool/
 🚀 Getting Started
 1. Clone & Install Dependencies
 Bash
-git clone [https://github.com/
-cd local-rag-poisoning-poc
+git clone https://github.com/2002bish/agent_tool.git
+cd agent_tool
 pip install -r requirements.txt
 (Ensure your requirements.txt contains: langchain, langchain-ollama, langchain-chroma, chromadb)
 
