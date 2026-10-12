@@ -1,0 +1,4 @@
+Company Security Policy:
+1. All employee passwords must be at least 12 characters long.
+2. Two-factor authentication (2FA) is mandatory for all production access.
+3. Report any security anomalies directly to security@company.com.
